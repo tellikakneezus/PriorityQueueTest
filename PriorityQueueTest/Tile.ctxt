@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=x\ y\ startX\ startY\ goalX\ goalY
+comment0.target=Tile(int,\ int,\ int,\ int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Tile\r\n
+comment1.params=dos
+comment1.target=int\ compareTo(java.lang.Object)
+comment2.params=sX\ sY\ gX\ gY
+comment2.target=int\ calculateF(int,\ int,\ int,\ int)
+numComments=3
